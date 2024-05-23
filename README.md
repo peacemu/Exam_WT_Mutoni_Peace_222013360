@@ -1,0 +1,26 @@
+# Exam_WT_Mutoni_Peace_222013360
+USER  credentials(username:Mutoni and password:PEACE$07.)
+
+ The Parent-Teacher Communication System serves as a centralized platform for fostering collaboration, transparency, 
+ and mutual understanding between parents and teachers, ultimately contributing to the academic success and well-being of students.
+            EXPLANATION
+ User Registration and Authentication: 
+ Parents and teachers register on the platform using their email addresses or other credentials. They then log in securely to access their respective accounts.
+
+Profile Management: Once logged in, users can manage their profiles, including updating contact information, adding student details (for parents), 
+and specifying subjects or classes taught (for teachers).
+
+Messaging and Notifications: The platform enables direct messaging between parents and teachers. Teachers can send notifications regarding upcoming events, exam schedules,
+and other important announcements. Similarly, parents can communicate concerns, inquiries, or feedback directly to the teachers.
+
+Academic Progress Tracking: Parents can view their child's academic progress, including grades, attendance records, and behavior reports, which are regularly updated by teachers.
+Teachers can also provide personalized feedback on a student's performance and areas for improvement.
+
+Event Calendar: The system includes a shared calendar where both parents and teachers can view important school events, parent-teacher meetings, exam dates, and holidays. 
+This helps in better coordination and planning.
+
+Document Sharing: Teachers can upload and share educational materials, such as study guides, assignments, and syllabi, with parents and students.
+This promotes transparency and helps parents stay informed about the curriculum and learning objectives.
+
+Privacy and Security: The platform ensures the privacy and security of user data through encryption, secure authentication protocols, and access controls.
+It also adheres to data protection regulations to safeguard sensitive information.
